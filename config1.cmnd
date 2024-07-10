@@ -1,0 +1,18 @@
+Main:numberOfEvents = 100
+
+
+Main:timesAllowErrors = 100
+
+
+Next:numberCount = 100             ! print message every n events
+Next:numberShowInfo = 0           ! print event information n times
+Next:numberShowProcess = 0         ! print process record n times
+Next:numberShowEvent = 0
+
+
+
+Beams:eCM = 5000
+HardQCD:all = on
+PhaseSpace:pTHatMin = 20
+
+
